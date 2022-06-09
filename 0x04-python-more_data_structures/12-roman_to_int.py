@@ -18,4 +18,3 @@ def roman_to_int(roman_string):
         total += num_map[roman_string[i]]
         return total
     return 0
-© 2022 GitHub, Inc.
